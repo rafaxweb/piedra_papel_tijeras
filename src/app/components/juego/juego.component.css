@@ -1,0 +1,16 @@
+.ventana__selector {
+    display: flex;
+    justify-content: space-evenly;
+    border: solid red ;
+}
+
+.ventana_selector__boton {
+    background-color: none;
+    border: none;
+    max-width: 30%;
+    margin: 1%;
+}
+
+.ventana_selector__boton img {
+    max-width: 30%;
+}
